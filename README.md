@@ -11,9 +11,9 @@ Players can use "english" by hitting the block or ball while traveling in the sa
 
 <br>
 <p>
-<img src="1.png" width="230px" />
-<img src="2.png" width="230px" />
-<img src="3.png" width="230px" />
+<img src="screenshots/1.png" width="230px" />
+<img src="screenshots/2.png" width="230px" />
+<img src="screenshots/3.png" width="230px" />
 </p>
 <br>
 
